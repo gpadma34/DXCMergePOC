@@ -14,6 +14,10 @@
         <p>Are you viewing your own profile? {!viewingMyProfile}</p>
         <br/>
         <apex:commandbutton action="{!Submit}" value="Submit">
+        <p>Salesforce.com, inc. is an American cloud-based software company headquartered in San Francisco, California. 
+        It provides customer relationship management service and also sells a complementary suite of 
+        enterprise applications focused on customer service, marketing automation, analytics, and application development. 
+        </P>
     </apex:outputPanel>
 
 </apex:page>
