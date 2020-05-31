@@ -17,5 +17,13 @@
 <apex:commandButton action="{!submit}" value="Submit" id="theButton"/>
 <apex:commandButton action="{!Cancel}" value="Cancel" id="theButton"/>
 <apex:commandButton action="{!Close}" value="Close" id="theButton"/>
+<apex:commandbutton action="{!Submit}" value="Submit">
+        <p>Salesforce.com, inc. is an American cloud-based software company headquartered in San Francisco, California. 
+        It provides customer relationship management service and also sells a complementary suite of 
+        enterprise applications focused on customer service, marketing automation, analytics, and application development. 
+        </P>
 </apex:outputPanel>
 </apex:page>
+
+  
+
