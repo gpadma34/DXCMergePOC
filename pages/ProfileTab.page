@@ -13,7 +13,9 @@
 
         <p>Are you viewing your own profile? {!viewingMyProfile}</p>
         <br/>
-
+       //GalileoSpt
+       <apex:commandbutton action="{!Save}" value="{Save}">
+       
     </apex:outputPanel>
 
 </apex:page>
