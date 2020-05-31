@@ -13,7 +13,7 @@
 
         <p>Are you viewing your own profile? {!viewingMyProfile}</p>
         <br/>
-
+        <apex:commandbutton action="{!Submit}" value="Submit">
     </apex:outputPanel>
 
 </apex:page>
