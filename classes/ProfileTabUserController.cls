@@ -43,4 +43,10 @@ public with sharing class ProfileTabUserController {
         c.cancel();
         return ApexPages.currentPage();
     }
+    @auraEnabled
+    public PageReference cancel() {
+        c.cancel();
+        return ApexPages.currentPage();
+    }
+}
 }
