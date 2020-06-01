@@ -12,8 +12,6 @@
         <br/>
 
         <p>Are you viewing your own profile? {!viewingMyProfile}</p>
-        <p>Google LLC is an American multinational technology company that specializes in Internet-related services and products,
-        which include online advertising technologies, a search engine, cloud computing, software, and hardware</p>
         <br/>
     </apex:outputPanel>
 </apex:page>
