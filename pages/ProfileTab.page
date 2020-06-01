@@ -10,8 +10,9 @@
         <p>You are viewing the profile of {!user.name}, 
         whose UID is {!subjectID}.</p>
         <br/>
+
         <p>Are you viewing your own profile? {!viewingMyProfile}</p>
-        <br/>
+        <br/> 
 <apex:commandbutton action="{!Save}" value="Save"/>
 <apex:commandButton action="{!submit}" value="Submit" id="theButton"/>
 <apex:commandButton action="{!Cancel}" value="Cancel" id="theButton"/>
@@ -21,7 +22,10 @@
         enterprise applications focused on customer service, marketing automation, analytics, and application development. 
         </P>
 </apex:outputPanel>
+<p> 
+     Google News is a news aggregator app developed by Google.
+     It presents a continuous flow of articles organized from thousands of publishers and magazines.
+     Google News is available as an app on Android, iOS, and the Web. 
+     Google released a beta version in September 2002 and the official app in January 2006.
+    </p>
 </apex:page>
-
-  
-
