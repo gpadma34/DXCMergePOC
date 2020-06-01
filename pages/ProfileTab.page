@@ -19,5 +19,7 @@
      Google News is available as an app on Android, iOS, and the Web. 
      Google released a beta version in September 2002 and the official app in January 2006.
     </p>
+    
+    <p> Salesforce.com, inc. is an American cloud-based software company headquartered in San Francisco, California. It provides customer relationship management service and also sells a complementary suite of enterprise applications focused on customer service, marketing automation, analytics, and application development. </p>
 </apex:outputPanel>
 </apex:page>
