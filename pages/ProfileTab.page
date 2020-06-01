@@ -13,19 +13,11 @@
 
         <p>Are you viewing your own profile? {!viewingMyProfile}</p>
         <br/> 
-<apex:commandbutton action="{!Save}" value="Save"/>
-<apex:commandButton action="{!submit}" value="Submit" id="theButton"/>
-<apex:commandButton action="{!Cancel}" value="Cancel" id="theButton"/>
-<apex:commandButton action="{!Close}" value="Close" id="theButton"/>
-        <p>Salesforce.com, inc. is an American cloud-based software company headquartered in San Francisco, California. 
-        It provides customer relationship management service and also sells a complementary suite of 
-        enterprise applications focused on customer service, marketing automation, analytics, and application development. 
-        </P>
-</apex:outputPanel>
-<p> 
+    <p> 
      Google News is a news aggregator app developed by Google.
      It presents a continuous flow of articles organized from thousands of publishers and magazines.
      Google News is available as an app on Android, iOS, and the Web. 
      Google released a beta version in September 2002 and the official app in January 2006.
     </p>
+</apex:outputPanel>
 </apex:page>
